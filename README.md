@@ -1,7 +1,7 @@
 # Weather App
 This repository contains the code for a Weather App, developed using HTML, CSS, JavaScript, and APIs. The Weather App allows users to retrieve current weather information for a specific location.
 
-Project Link :- https://i-pranjalmishra.github.io/WeatherApp-FrontEnd/
+Project Link :- https://anshika08mishra.github.io/WeatherApp-FrontEnd/
 
 ## Features
 User-friendly interface: The Weather App has a clean and intuitive design, providing a pleasant user experience.
